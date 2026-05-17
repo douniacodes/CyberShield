@@ -1,6 +1,6 @@
 # CyberShield Dashboard
 
-![PREVIEW](/public/preview-cybershield.mp4)
+![PREVIEW](/public/preview-cybershield.gif)
 
 Interface de supervision SOC (Security Operations Center) développée avec **React + TypeScript + Tailwind**.
 
